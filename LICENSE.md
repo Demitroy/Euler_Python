@@ -1,0 +1,1 @@
+The code developed in this repository comes from my learning using open source materials.  The code is mine, meaning the mistakes are mine, but it is available for anyone else to use if they see something beneficial.
