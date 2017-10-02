@@ -1,3 +1,5 @@
+# Print the sum of natural numbers divisible by either 3 or 5, up to 1000.
+
 import time
 t1 = time.time()
 
